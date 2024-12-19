@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Felipe Sandoval</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blogs on Felipe Sandoval</description>
-    <generator>Hugo -- 0.139.4</generator>
+    <title>Blog on Felipe Sandoval</title>
+    <link>http://localhost:1313/kross/site/blog/</link>
+    <description>Recent content in Blog on Felipe Sandoval</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/kross/site/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Blog</title>
-      <link>http://localhost:1313/blog/testing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/testing/</guid>
-      <description>&lt;p&gt;test test&lt;/p&gt;</description>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-2/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-3/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-4/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-5/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-5/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-6/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-6/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

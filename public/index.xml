@@ -1,25 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Felipe Sandoval</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/kross/site/</link>
     <description>Recent content on Felipe Sandoval</description>
-    <generator>Hugo -- 0.139.4</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 12:14:34 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/kross/site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>N-Body Orbit Simulator</title>
-      <link>http://localhost:1313/projects/n-body-sim/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/n-body-sim/</guid>
-      <description>&lt;p&gt;test test&lt;/p&gt;</description>
+      <link>http://localhost:1313/kross/site/portfolio/nbody/</link>
+      <pubDate>Tue, 17 Dec 2024 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/portfolio/nbody/</guid>
+      <description>&lt;h4 class=&#34;text-center&#34; style=&#34;font-size: 30px&#34;&gt;&#xD;&#xA;The Project&#xD;&#xA;&lt;/h4&gt;&#xD;&#xA;&lt;p&gt;During the end of my first semester as a grad student, I had to come up with a project to demonstrate my ability to create programs with numerical models for my Earth Systems Modelling course. I thought of the classic Three-Body Problem, but wanted to challenge myself, and decided to do it for an arbitrary number of masses.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Test Blog</title>
-      <link>http://localhost:1313/blog/testing/</link>
+      <title>Numerical Electromagnetics</title>
+      <link>http://localhost:1313/kross/site/portfolio/fem/</link>
+      <pubDate>Wed, 01 May 2024 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/portfolio/fem/</guid>
+      <description>&lt;h4 class=&#34;text-center&#34; style=&#34;font-size: 30px&#34;&gt;&#xD;&#xA;The Project&#xD;&#xA;&lt;/h4&gt;&#xD;&#xA;&lt;p&gt;For my capstone at Purdue, I worked on creating a Finite Element Method for Electromagnetics tool for the Computational Quantum Electromagnetics lab. The goal was to make an easily accesible tool that could calculate all the possible modes that may propagate in specific geometries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-1/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-2/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-3/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-3/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-4/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-5/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-5/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon increase income 1.5 Million</title>
+      <link>http://localhost:1313/kross/site/blog/post-6/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/kross/site/blog/post-6/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore&#xA;et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip&#xA;ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu&#xA;fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt&#xA;mollit anim id est laborum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/kross/site/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/testing/</guid>
-      <description>&lt;p&gt;test test&lt;/p&gt;</description>
+      <guid>http://localhost:1313/kross/site/about/</guid>
+      <description>&lt;p&gt;Hey! I&amp;rsquo;m Felipe and I have been working on my Master&amp;rsquo;s in ECE at Georgia Tech&amp;rsquo;s &lt;b&gt;Low Frequency Lab&lt;/b&gt;. I&amp;rsquo;m very interested in &lt;b&gt;Electromagnetics&lt;/b&gt; theory and design. I&amp;rsquo;m also planning on starting my PhD soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/kross/site/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kross/site/contact/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

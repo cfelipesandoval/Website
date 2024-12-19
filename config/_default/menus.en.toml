@@ -1,0 +1,18 @@
+############# English navigation ##############
+
+# main menu
+
+[[main]]
+URL = "portfolio/"
+name = "projects"
+weight = 1
+
+[[main]]
+URL = "about/"
+name = "About"
+weight = 3
+
+[[main]]
+URL = "contact/"
+name = "Contact"
+weight = 4
