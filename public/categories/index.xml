@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Felipe Sandoval</title>
-    <link>http://localhost:1313/kross/site/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Felipe Sandoval</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Dec 2024 12:14:34 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/kross/site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Physics</title>
-      <link>http://localhost:1313/kross/site/categories/physics/</link>
+      <link>http://localhost:1313/categories/physics/</link>
       <pubDate>Tue, 17 Dec 2024 12:14:34 +0600</pubDate>
-      <guid>http://localhost:1313/kross/site/categories/physics/</guid>
+      <guid>http://localhost:1313/categories/physics/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>http://localhost:1313/kross/site/categories/programming/</link>
+      <link>http://localhost:1313/categories/programming/</link>
       <pubDate>Tue, 17 Dec 2024 12:14:34 +0600</pubDate>
-      <guid>http://localhost:1313/kross/site/categories/programming/</guid>
+      <guid>http://localhost:1313/categories/programming/</guid>
       <description></description>
     </item>
   </channel>
