@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://cfelipesandoval.netlifly.app/"
+baseURL = "https://cfelipesandoval.netlify.app/"
 title = "Felipe Sandoval"
 theme = ""
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
