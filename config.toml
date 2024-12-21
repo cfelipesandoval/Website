@@ -62,4 +62,3 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/swiper/swiper-bundle.js"
 [[params.plugins.js]]
 link = "plugins/webfont/webfont-loader-2.js" 
-
