@@ -2,8 +2,7 @@
 extended = true
 min = "0.109.0"
 
-[module]
-[[module.imports]]
+[[imports]]
 path = "https://github.com/themefisher/kross-hugo"
 
 [[imports]]
