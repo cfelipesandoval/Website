@@ -71,3 +71,7 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+
+[module]
+[[module.imports]]
+path = "https://github.com/themefisher/kross-hugo"
