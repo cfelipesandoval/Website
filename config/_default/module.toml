@@ -3,6 +3,9 @@ extended = true
 min = "0.109.0"
 
 [[imports]]
+path = "https://github.com/themefisher/kross-hugo"
+
+[[imports]]
 path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
 
 [[imports]]
