@@ -1,0 +1,3 @@
+[module]
+  [[module.imports]]
+    path = "https://github.com/themefisher/kross-hugo"
