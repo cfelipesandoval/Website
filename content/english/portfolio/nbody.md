@@ -18,7 +18,8 @@ I made a few simulations with 3blue1brown's renderer [Manim](https://github.com/
 
 This is a simulation of the solar system. The simulation was done with data from NASA's [planetary fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/).
 
-![image](images/portfolio/nbody/SolarSystem.gif)
+<img src = "images/portfolio/nbody/SolarSystem.gif">
+
 
 For fun, I took the figure 8 orbit seen in the title, and made a simulation with four of them orbiting a central one. 
 
