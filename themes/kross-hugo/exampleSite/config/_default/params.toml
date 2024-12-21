@@ -15,7 +15,7 @@ logo_text = "Kross"
 purge_css = true
 
 # contact form action
-contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://airform.io/cf.sandoval2001@gmail.com" # contact form works with [https://airform.io/] or [https://formspree.io]
 
 # google tag manager, see https://developers.google.com/tag-manager/
 google_adsense = "" # example: ca-pub-xxxxxxxxxxxxxxxx
@@ -25,11 +25,11 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 custom_script = ""
 
 # Author
-author = "Johnathan Smith"
+author = "Felipe Sandoval"
 
 # copyright
-copyright = "Copyright by your company"
-theme_copyright = true
+copyright = "© Felipe Sandoval 2024"
+theme_copyright = false
 
 # Preloader
 [preloader]
@@ -39,8 +39,8 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 # contact info
 [contact_info]
 address = "9567 Turner Trace Apt. BC C3G8A4"
-email = "info@email.com"
-mobile = "+211234565523"
+email = "cf.sandoval2001@gmail.com"
+mobile = "+7865086262"
 
 # Crisp Chat
 [crisp_chat]
@@ -113,62 +113,42 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 
 # Client Logo Slider 
 [[logo_slider]]
-URL = "http://examplesite.com"
-logo = "images/clients-logo/client-logo-1.png"
+URL = "https://purdue.edu"
+logo = "images/clients-logo/purdueLogo.png"
 
 [[logo_slider]]
-URL = "#"
-logo = "images/clients-logo/client-logo-2.png"
+logo = "images/clients-logo/pspLogo.png"
+URL = "https://purdueseds.space/student-launch/"
 
 [[logo_slider]]
-URL = "http://examplesite.com"
-logo = "images/clients-logo/client-logo-3.png"
+logo = "images/clients-logo/cqemLogo.png"
+URL = "https://engineering.purdue.edu/CQEM"
 
 [[logo_slider]]
-URL = "#"
-logo = "images/clients-logo/client-logo-4.png"
+logo = "images/clients-logo/gatechLogo.png"
+URL = "https://gatech.edu"  
 
 [[logo_slider]]
-URL = "http://examplesite.com"
-logo = "images/clients-logo/client-logo-5.png"
+logo = "images/clients-logo/lfLogo.png"
+URL = "https://lf.gatech.edu/"
 
-[[logo_slider]]
-URL = "#"
-logo = "images/clients-logo/client-logo-1.png"
-
-[[logo_slider]]
-URL = "http://examplesite.com"
-logo = "images/clients-logo/client-logo-2.png"
-
-[[logo_slider]]
-URL = "#"
-logo = "images/clients-logo/client-logo-3.png"
-
-[[logo_slider]]
-URL = "http://examplesite.com"
-logo = "images/clients-logo/client-logo-4.png"
-
-[[logo_slider]]
-URL = "#"
-logo = "images/clients-logo/client-logo-5.png"
 
 ############################# social site ########################
 [[social]]
-icon = "ti-facebook" # themify icon https =themify.me/themify-icons
-link = "#" 
-title = "facebook" 
-
-[[social]]
-icon = "ti-twitter" # themify icon - https://themify.me/themify-icons
-link = "#" 
-title = "twitter" 
-
-[[social]]
-icon = "ti-instagram" # themify icon - https://themify.me/themify-icons
-link = "#" 
-title = "instagram" 
+icon = "ti-github" # themify icon - https://themify.me/themify-icons
+link = "https://github.com/cfelipesandoval" 
+title = "github" 
 
 [[social]]
 icon = "ti-linkedin" # themify icon - https://themify.me/themify-icons
-link = "#" 
+link = "https://linkedin.com/in/sandovc" 
 title = "linkedin"
+
+[[social]]
+icon = "ti-instagram" # themify icon - https://themify.me/themify-icons
+link = "https://instagram.com/felipe_does_his_thing/" 
+title = "instagram" 
+
+
+
+
