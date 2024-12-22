@@ -27,7 +27,7 @@ A lot of the work was based off of Jin's textbook THEORY AND COMPUTATION OF ELEC
 <br>1D Simulation
 </h4>
 
-ss
+<img src="/images/portfolio/fem/1d.png" class="postimage">
 
 
 
