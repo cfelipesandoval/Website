@@ -24,7 +24,7 @@ For fun, I took the figure 8 orbit seen in the title, and made a simulation with
 
 ![image](images/portfolio/nbody/OrbitingFig8.gif)
 
-You can check out the details of how you can use this tool in my [GitHub Repo](https://github.com/cfelipesandoval/N-Body_Simulator). 
+You can check out the details of how you can use this tool in my [GitHub Repo](https://github.com/cfelipesandoval/N-Body_Simulator).
 
 
 
