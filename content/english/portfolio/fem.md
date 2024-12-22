@@ -6,7 +6,7 @@ image: "images/portfolio/fem/front.png"
 project_url: "https://github.com/cfelipesandoval/cqemfem"
 categories: ["Programming", "Physics"]
 description: "This is meta description."
-draft: false
+draft: true
 ---
 
 <h4 class="text-center" style="font-size: 30px">
@@ -21,7 +21,7 @@ For my capstone at Purdue, I worked on creating a Finite Element Method for Elec
 
 To build up to the final 3D Potential Based tool, I began working my way up to understand the FEM for electromagnetics starting with the 1D case. 
 
-A lot of the work was based off of Jin's textbook THEORY AND COMPUTATION OF ELECTROMAGNETIC FIELDS.
+A lot of the project's math was based off of Jin's textbook [Theory and Computation of Electromagnetic Fields](https://www.amazon.com/Theory-Computation-Electromagnetic-Fields-Jian-Ming/dp/0470533595).
 
 <h4 style="font-size: 25px">
 <br>1D Simulation
@@ -29,6 +29,27 @@ A lot of the work was based off of Jin's textbook THEORY AND COMPUTATION OF ELEC
 
 <img src="/images/portfolio/fem/1d.png" class="postimage">
 
+This is a plot made with the [1D-FEM](https://github.com/cfelipesandoval/cqemfem/tree/main/1D_FEM) numerical solver of a wave propagating into a different media at the center of the image. Although the colors could use some imporvement, the accuracy was surprisingly good for something I put together in a few hours.
 
+The goal for this was just to learn more or less how the process would work for higher dimensions, however, I did not include any sort of object oriented concepts for this one as it seemed like overkill.
 
+<h4 style="font-size: 25px">
+<br>2D Simulation
+</h4>
+
+Here's a couple of pictures of what my [2D-FEM](https://github.com/cfelipesandoval/cqemfem/tree/main/2D_FEM) code does
+
+<img src="/images/portfolio/fem/2d.jpg" class="postimage">
+
+These are essentially plots of two modes that propagate through a slice of a rectangular waveguide with perfectly conducting walls.
+
+To calculate the modes with the finite element method, a mesh of each waveguide is created in [Cubit](https://coreform.com/coreform-cubit/), and then fed into the program. In the repo, the "ReadAbaqusMesh.py" file deals with this part of the process.
+
+I thought this next one was cool, and proved to me that the code should (at least in theory) work for any arbitrary shape.
+
+<img src="/images/portfolio/fem/2d_circ.png" class="postimage" style="max-width:400px">
+
+<h4 style="font-size: 25px">
+<br>3D Simulation
+</h4>
 

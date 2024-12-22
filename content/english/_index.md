@@ -3,17 +3,16 @@
 banner:
   title: "Hey! I’m <br> Felipe Sandoval"
 
-# # about
-# about:
-#   enable: true
-#   title: "About Me"
-#   button:
-#     enable: true
-#     label: "More About Me"
-#     URL: "about"
-#   content: >
-#     - I am an ECE Master's student at Georgia Tech. I have an interest in **Electromagnetics** 
-#     <br><br>Make this paragraph please
+# about
+about:
+  enable: true
+  title: "About Me"
+  button:
+    enable: true
+    label: "More About Me"
+    URL: "about"
+  content: >
+    - Hey! I'm Felipe and this is my personal website. I'm currently completing my Master's degree in electrical engineering and here you can see some interesting projects I have worked on. 
 
 # portfolio
 portfolio:

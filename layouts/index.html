@@ -31,8 +31,11 @@
 <section class="section pb-0">
   <div class="container">
     <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title pb-0" style="margin-bottom: 30px">{{ .title | markdownify }}</h2>
+      </div>
       <div class="col-lg-10 mx-auto text-center">
-        <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
+        <div class="font-primary lead text-dark" style="font-size: 30px">{{.content | markdownify}}</div>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a>
