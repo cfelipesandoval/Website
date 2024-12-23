@@ -33,3 +33,8 @@ I had to drill a hole on the case I got, and the result looked like this
 Here is a sample of a ground test I succesfully did.
 
 <img src="/images/portfolio/lbox/test.gif" class="postimage" style="width: 300px">
+
+
+Here is a picture of me setting up an outdoors test
+
+<img src="/images/portfolio/lbox/testout.jpg" class="postimage" style="width: 300px">
