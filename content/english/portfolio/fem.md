@@ -6,7 +6,7 @@ image: "images/portfolio/fem/front.png"
 project_url: "https://github.com/cfelipesandoval/cqemfem"
 categories: ["Programming", "Physics"]
 description: "This is meta description."
-draft: true
+draft: false
 ---
 
 <h4 class="text-center" style="font-size: 30px">
@@ -43,7 +43,9 @@ Here's a couple of pictures of what my [2D-FEM](https://github.com/cfelipesandov
 
 These are essentially plots of two modes that propagate through a slice of a rectangular waveguide with perfectly conducting walls.
 
-To calculate the modes with the finite element method, a mesh of each waveguide is created in [Cubit](https://coreform.com/coreform-cubit/), and then fed into the program. In the repo, the "ReadAbaqusMesh.py" file deals with this part of the process.
+To calculate the modes with the finite element method, a mesh of each waveguide with triangular elements is created in [Cubit](https://coreform.com/coreform-cubit/), and then fed into the program. In the repo, the "ReadAbaqusMesh.py" file deals with this part of the process.
+
+<img src="/images/portfolio/fem/disc.png" class="postimage">
 
 I thought this next one was cool, and proved to me that the code should (at least in theory) work for any arbitrary shape.
 
@@ -53,3 +55,27 @@ I thought this next one was cool, and proved to me that the code should (at leas
 <br>3D Simulation
 </h4>
 
+Finally, the goal of this project was to reach the stage where the modes for a 3-dimensional cavity could be calculated with [3D-FEM](https://github.com/cfelipesandoval/cqemfem/tree/main/3D_Potential_FEM). This simulation was done in two ways, first with scalar basis functions for scalar, then with vector ones for a potential-based formulation.
+
+The meshing process was similar as in the 2D case, where tetrahedral elements are used to discretize the cavities. 
+
+For the potential-based formulation, my code calculates the contribution of each element with the help of an eigensolver. Each contribution has the form of a vector field, and in the end a plot can be made with the magnitudes of each vector.
+
+
+<img src="/images/portfolio/fem/3d.png" class="postimage" style="max-width:400px">
+
+This plot is made from two slices of the cavity on perpendicular axes.
+
+<h4 class="text-center" style="font-size: 30px">
+<br>Outcomes
+</h4>
+
+With the help of a few of the other people working on parallel projects, we presented at Purdue's Research Expo. This is an opportunity where undergraduate students participating in research can share their projects through a poster presentation.
+
+Here's a picture of me at the poster presentation.
+
+<img src="/images/portfolio/fem/presenting.jpg" class="postimage">
+
+And here's the poster I made for it.
+
+<img src="/images/portfolio/fem/presentation.png" class="postimage">

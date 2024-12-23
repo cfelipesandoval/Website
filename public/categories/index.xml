@@ -22,5 +22,19 @@
       <guid>http://localhost:1313/categories/programming/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Circuits</title>
+      <link>http://localhost:1313/categories/circuits/</link>
+      <pubDate>Mon, 01 Jan 2024 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/categories/circuits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rocketry</title>
+      <link>http://localhost:1313/categories/rocketry/</link>
+      <pubDate>Mon, 01 Jan 2024 12:14:34 +0600</pubDate>
+      <guid>http://localhost:1313/categories/rocketry/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
