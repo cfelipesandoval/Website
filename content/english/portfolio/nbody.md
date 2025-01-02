@@ -24,7 +24,7 @@ For fun, I took the figure 8 orbit seen in the title, and made a simulation with
 
 <img src = "/images/portfolio/nbody/OrbitingFig8.gif" class="postimage">
 
-You can check out the details of how you can use this tool in my [GitHub Repo](https://github.com/cfelipesandoval/N-Body_Simulator).
+You can check out the details of how to use this simulator in my [GitHub Repo](https://github.com/cfelipesandoval/N-Body_Simulator).
 
 
 
@@ -32,4 +32,4 @@ You can check out the details of how you can use this tool in my [GitHub Repo](h
 <br>Updates I want to Make
 </h4>
 
-Although the simulation is very quick already using Python, I would like to update it for the brunt of the computation to be done with C++. I want to essentially use Python as a wrapper and to make viualization easy to work with. 
+Although the simulation is very quick already using Python, I would like to update it for the brunt of the computation to be done with C++. I want to essentially use Python as a wrapper to make viualization easy to work with rather than doing the actual calculations as it is not as fast as I want it to be. 

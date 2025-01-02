@@ -11,8 +11,7 @@ about:
     enable: true
     label: "More About Me"
     URL: "about"
-  content: >
-    - Hey! I'm Felipe and this is my personal website. I'm currently completing my Master's degree in electrical engineering and here you can see some interesting projects I have worked on. 
+  content: "Hey! I'm Felipe and this is my personal website. I'm currently completing my Master's degree in electrical engineering and here you can see some interesting projects I have worked on and music I have recorded."
 
 # portfolio
 portfolio:

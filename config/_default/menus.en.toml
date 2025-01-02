@@ -8,6 +8,11 @@ name = "projects"
 weight = 1
 
 [[main]]
+URL = "music/"
+name = "music"
+weight = 2
+
+[[main]]
 URL = "about/"
 name = "About"
 weight = 3
