@@ -7,19 +7,21 @@
       <div class="row justify-content-center">
         <div class="col-lg-9 text-center mb-4"> 
           <!-- <a href="{{.Params.project_url}}>"> {{ partial "image.html" (dict "Src" .Params.image "Alt" .Title "Class" `rounded w-75 mb-4`) }}</a> -->
-          <iframe style="width: 100% ; max-width: 840px ; height: 100% ; min-height: 472.5px"
-          src=" {{ .Params.project_url}}&amp;start={{ .Params.start_time }}" 
-          title="YouTube video player" 
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-          referrerpolicy="strict-origin-when-cross-origin" 
-          allowfullscreen>
-          </iframe>
+          <div class="video-wrapper">
+            <iframe class="responsive-iframe"
+            src=" {{ .Params.project_url}}&amp;start={{ .Params.start_time }}" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen>
+            </iframe>
+          </div>
           <p class="fw-bold font-secondary">Published on {{ .PublishDate.Format "Jan 02, 2006" }} by <span class="text-primary">{{site.Params.Author}}</span></p>
         </div>
         <div class="col-md-8">
           <div class="content">
-            <br>{{.Content }}
+            {{.Content }}
           </div>
         </div>
       </div>
