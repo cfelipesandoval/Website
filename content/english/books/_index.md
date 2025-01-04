@@ -1,5 +1,5 @@
 ---
-title: "books"
+title: "Books"
 description: "This is meta description."
 draft: false
 ---

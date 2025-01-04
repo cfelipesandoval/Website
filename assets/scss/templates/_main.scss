@@ -281,6 +281,110 @@
 }
 
 // ---------------------------------------------
+// books
+// --------------------------------------------- 
+
+.book-cover {
+  max-width: 150px;
+  min-width: 150px;
+}
+
+.book-hover-wrapper {
+  overflow: hidden;
+  max-width: 150px;
+  min-width: 150px;
+
+  img {
+    transition: .3s ease;
+  }
+
+  &:hover {
+    img {
+      transform: scale(1);
+    }
+
+    .book-hover-overlay {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+}
+
+.book-hover-overlay {
+  position: absolute;
+  max-width: 150px;
+  min-width: 150px;
+  height: 100%;
+  width: 100%;
+  border-radius: inherit;
+  top: 0;
+  left: 0;
+  background: rgba($color: $black, $alpha: .3);
+  opacity: 0;
+  visibility: hidden;
+  transition: .3s ease;
+}
+
+.book-hover-content {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  text-align: left;
+}
+
+.book-content {
+  * {
+    margin-bottom: 20px;
+    font-size: 100%;
+    text-align: left;
+  }
+
+  strong {
+    font-family: $font-secondary;
+    font-size: 22px;
+    font-weight: normal;
+    color: $text-dark;
+    display: inherit;
+    line-height: 1.5;
+  }
+}
+
+[style^=--rating]::after {
+  content: "★★★★★";
+  font-size: 1.6em;
+  white-space: nowrap;
+  background: linear-gradient(90deg, #fb0 calc(var(--rating) * 20%), #ddd calc(var(--rating) * 20%));
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: #0000;
+}
+
+details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+  max-width: 150px;
+  min-width: 150px;
+}
+
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
+
+details[open] {
+  padding: 0.5em;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 0.5em;
+}
+
+// ---------------------------------------------
 // testimonial
 // --------------------------------------------- 
 .testimonial-slider {
