@@ -30,7 +30,7 @@ layout: "about"
 #   title: "My Clients"
 #   # clients logo comes from 'params.toml' file
 ---
-I have been working on my Master's in ECE at Georgia Tech's <b>Low Frequency Lab</b>. I'm very interested in <b>Electromagnetics</b> theory and design. I'm also planning on starting my PhD soon.
+I have been working on my PhD in ECE at Georgia Tech's <b>Low Frequency Lab</b>. I'm very interested in <b>Electromagnetics</b> theory and design.
 
 I was previously part of the <b>Computational Quantum Electromagnetics Lab</b> at Purdue and competed with the <b>Purdue Space Program Student Launch team</b> for 3 years.
 
