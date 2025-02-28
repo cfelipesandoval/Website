@@ -67,8 +67,8 @@ education:
       year: "2024"
       academy: "Purdue University"
       
-    - title: "MS in Electrical & Computer Engineering"
-      year: "2026"
+    - title: "PhD in Electrical & Computer Engineering"
+      year: "2029"
       academy: "Georgia Tech"
 # # testimonial
 # testimonial:
