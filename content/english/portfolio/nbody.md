@@ -6,7 +6,7 @@ image: "images/portfolio/nbody/Figure8.gif"
 project_url: "https://github.com/cfelipesandoval/N-Body_Simulator"
 categories: ["Programming", "Physics"]
 description: "This is meta description."
-draft: false
+draft: true
 ---
 <h4 class="text-center" style="font-size: 30px">
 The Project
