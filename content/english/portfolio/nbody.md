@@ -27,6 +27,18 @@ For fun, I took the figure 8 orbit seen in the title, and made a simulation with
 You can check out the details of how to use this simulator in my [GitHub Repo](https://github.com/cfelipesandoval/N-Body_Simulator).
 
 
+<h4 class="text-center" style="font-size: 30px">
+<br>N-Body Problem Report
+</h4>
+
+Part of the Earth Systems Modelling class was to write a full report about the simulator. In it, I explain the theory to numerically solve 2 and 3 body problems, and extend it to an arbitrary number of bodies. Moreover, there is some insight into some of the simulator parameters and into the simulation error over time. 
+
+<embed src="/images/portfolio/nbody/report.pdf" 
+       type="application/pdf"
+       frameBorder="0"
+       scrolling="auto"
+       height="768px"
+       width="100%"/>
 
 <h4 class="text-center" style="font-size: 30px">
 <br>Updates I want to Make
