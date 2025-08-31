@@ -6,7 +6,7 @@ image: "images/portfolio/nbody/Figure8.gif"
 project_url: "https://github.com/cfelipesandoval/N-Body_Simulator"
 categories: ["Programming", "Physics"]
 description: "This is meta description."
-draft: true
+draft: false
 ---
 <h4 class="text-center" style="font-size: 30px">
 The Project
@@ -33,7 +33,7 @@ You can check out the details of how to use this simulator in my [GitHub Repo](h
 
 Part of the Earth Systems Modelling class was to write a full report about the simulator. In it, I explain the theory to numerically solve 2 and 3 body problems, and extend it to an arbitrary number of bodies. Moreover, there is some insight into some of the simulator parameters and into the simulation error over time. 
 
-<embed src="/images/portfolio/nbody/report.pdf" 
+<embed src="/images/portfolio/nbody/reports.pdf"
        type="application/pdf"
        frameBorder="0"
        scrolling="auto"
