@@ -3,7 +3,7 @@ title: "N-Body Orbit Simulator"
 date: 2024-12-17T12:14:34+06:00
 image: "images/portfolio/nbody/Figure8.gif"
 # client: "John Doe"
-project_url: "https://github.com/cfelipesandoval/N-Body_Simulator"
+project_url: "https://github.com/cfelipesandoval/N-Body_Simulator_Python"
 categories: ["Programming", "Physics"]
 description: "This is meta description."
 draft: false
