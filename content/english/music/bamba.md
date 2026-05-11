@@ -10,7 +10,7 @@ description: "This is meta description."
 draft: false
 ---
 
-<h4 class="text-center" style="font-size: 30px">
+<h4 style="font-size: 30px">
 The Music
 </h4>
 

@@ -8,7 +8,7 @@ categories: ["Programming", "Physics"]
 description: "This is meta description."
 draft: false
 ---
-<h4 class="text-center" style="font-size: 30px">
+<h4 style="font-size: 30px">
 The Project
 </h4>
 
@@ -28,7 +28,7 @@ You can check out the details of how you can use this tool in my [GitHub Repo](h
 
 
 
-<h4 class="text-center" style="font-size: 30px">
+<h4 style="font-size: 30px">
 <br>Updates I want to Make
 </h4>
 

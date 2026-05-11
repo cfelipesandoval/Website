@@ -9,13 +9,13 @@ description: "This is meta description."
 draft: false
 ---
 
-<h4 class="text-center" style="font-size: 30px">
+<h4 style="font-size: 30px">
 The Project
 </h4>
 
 For my capstone at Purdue, I worked on creating a Finite Element Method for Electromagnetics tool for the Computational Quantum Electromagnetics lab. The goal was to make an easily accesible tool that could calculate all the possible modes that may propagate in specific geometries.
 
-<h4 class="text-center" style="font-size: 30px">
+<h4 style="font-size: 30px">
 <br>How I made it
 </h4>
 

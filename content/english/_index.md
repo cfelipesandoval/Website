@@ -27,7 +27,7 @@ skill:
 
   item:
     - title: "Riometer"
-      progress: "30%"
+      progress: "50%"
       color: "#fdb157"
       URL: "portfolio"
       
@@ -95,10 +95,10 @@ education:
 #   enable: true
 #   title: "Experience"
 #   item: 
-#     - logo: "images/experience/icon-1.png"
-#       title: "Junior UX Designer"
-#       company: "WEBEX"
-#       duration: "Jan 2007 - Feb 2009"
+#     - logo: "images/nasa_meatball.png"
+#       title: "Electrical Engineering Intern"
+#       company: "NASA Langley"
+#       duration: "June 2026"
       
 #     - logo: "images/experience/icon-2.png"
 #       title: "UX & UI Designer"
@@ -149,6 +149,9 @@ clients_logo_slider:
     
     - logo: "images/clients-logo/lfLogo.png"
       URL: "https://purdue.edu"
+
+    - logo: "images/clients-logo/nasa_meatball.png"
+      URL: "https://nasa.gov/langley/"
       
     # - logo: "images/clients-logo/client-logo-5.png"
     #   URL: "http://examplesite.com"

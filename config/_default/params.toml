@@ -132,6 +132,10 @@ URL = "https://gatech.edu"
 logo = "images/clients-logo/lfLogo.png"
 URL = "https://lf.gatech.edu/"
 
+[[logo_slider]]
+logo = "images/clients-logo/nasa_meatball.png"
+URL = "https://nasa.gov/langley"
+
 
 ############################# social site ########################
 [[social]]

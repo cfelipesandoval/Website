@@ -10,13 +10,13 @@ description: "This is meta description."
 draft: false
 ---
 
-<h4 class="text-center" style="font-size: 30px">
+<h4 style="font-size: 30px">
 Why I Made This
 </h4>
 
 Due to the pandemic, the event of 2020 (and some time after), we were all under strict restrictions to not have large gatherings. Regardless of that, I still wanted to give one of my best friends a great birthday gift. So I made this unique rendition of "Happy Birthday", with additional singing not present in the original.
 
-<h4 class="text-center" style="font-size: 30px">
+<h4 style="font-size: 30px">
 The Music
 </h4>
 

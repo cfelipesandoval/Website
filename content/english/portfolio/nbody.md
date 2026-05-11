@@ -8,7 +8,7 @@ categories: ["Programming", "Physics"]
 description: "This is meta description."
 draft: false
 ---
-<h4 class="text-center" style="font-size: 30px">
+<h4 style="font-size: 30px">
 The Project
 </h4>
 
@@ -27,7 +27,7 @@ For fun, I took the figure 8 orbit seen in the title, and made a simulation with
 You can check out the details of how to use this simulator in my [GitHub Repo](https://github.com/cfelipesandoval/N-Body_Simulator).
 
 
-<h4 class="text-center" style="font-size: 30px">
+<h4 style="font-size: 30px">
 <br>N-Body Problem Report
 </h4>
 
@@ -40,7 +40,7 @@ Part of the Earth Systems Modelling class was to write a full report about the s
        height="768px"
        width="100%"/>
 
-<h4 class="text-center" style="font-size: 30px">
+<h4 style="font-size: 30px">
 <br>Updates I want to Make
 </h4>
 
